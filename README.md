@@ -1,4 +1,4 @@
-# AIAlpha: Multilayer neural network architecture for stock return prediction
+STOCK PREDICTOR
 [![forthebadge made-with-python](https://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square)](https://github.com/VivekPa/AIAlpha/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -135,8 +135,3 @@ The training normally stops after the model has trained on historic data and mer
 
 The beauty of this model is the once the construction is understood, the individual models can be swapped out for the best model there is. So over time the actual models used here will be different but the core framework will still be the same. I am also working on improving the current model with ideas from Advanced in Financial Machine Learning, such as adding sample weights, cross-validation and ensemble techniques. 
 
-## Contributing
-
-I am always grateful for feedback and modifications that would help! 
-
-Hope you have enjoyed that! To see more content like this, please visit: [Engineer Quant](https://medium.com/engineer-quant)
